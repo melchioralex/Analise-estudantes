@@ -40,8 +40,11 @@ Objetivo: Expor os malefícios do uso excessivo de celulares e telas, abordando 
 Linguagem: R
 Bibliotecas Principais: tidyverse (dplyr, ggplot2), corrplot
 
-![gráfico de barras por gênero](distribuicao_notas.png)
+#### 1. Equidade de Gênero no Desempenho
+![Distribuição por Gênero](visualizacoes/distribuicao_notas.png)
 
-![boxplot das horas de estudo](boxplot_estudo.png)
+#### 2. Validação das Horas de Estudo (Boxplot)
+![Boxplot de Horas de Estudo](visualizacoes/boxplot_estudo.png)
 
-![mapa de calor colorido](heatmap_correlacao.png)
+#### 3. Matriz de Interdependência (Heatmap)
+![Heatmap de Correlação](visualizacoes/heatmap_correlacao.png)
